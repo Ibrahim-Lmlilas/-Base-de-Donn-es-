@@ -133,7 +133,7 @@ VALUES (5000, '2024-03-30', 1, 1);
 
 SELECT * FROM Offers;
 
------------------ Reviews table-----------------------
+----------------- Reviews table--------------------------
 CREATE TABLE Reviews (
     review_id INT PRIMARY KEY AUTO_INCREMENT,
     comment TEXT NOT NULL,
