@@ -93,6 +93,8 @@ CREATE TABLE Projects (
 INSERT INTO Projects (title, description, category_id, subcategory_id, id_user)
 VALUES ('E-commerce Website', 'Online shop project', 1, 1, 1);
 
+
+
 SELECT * FROM Projects;
 
 
